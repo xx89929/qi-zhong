@@ -15,7 +15,7 @@
             </div>
 
             <div class="our-advantage-content">
-                <img class="lazy img-responsive" data-original="{{url('image/adv-index.png')}}">
+                <img class="lazy img-responsive" data-original="{{url('image/adv-index.png')}}" title="我们的优势">
             </div>
         </div>
     </div>

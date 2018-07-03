@@ -7,8 +7,9 @@
     <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
     <!-- 百度JS接口说明 -->
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
-    <meta name="description" content="海南企众官网，公司注册，公司变更，公司注销，记账报税，公司建站" />
-    <meta name="keywords" content="海南企众官网，海南公司注册，海南公司变更，海南公司注销，海南记账报税，海南公司建站" />
+    <meta name="keywords" content="海南企众实业(海南企众),建立网站,建站,PP开发,商城开发,小程序开发,微信开发" />
+    <meta name="description" content="海南企众帮助企业快速开发互联网技术,网站,APP,大型服务器架构,维护及企业工商财务等业务。" />
+
     <meta name="baidu-site-verification" content="vd74ZfH6Me" />
     <title>{{$web_title}}</title>
     <!-- Bootstrap -->
