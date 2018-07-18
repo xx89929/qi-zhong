@@ -7,11 +7,12 @@
     <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
     <!-- 百度JS接口说明 -->
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
-    <meta name="keywords" content="海南企众实业(海南企众),建立网站,建站,PP开发,商城开发,小程序开发,微信开发" />
-    <meta name="description" content="海南企众帮助企业快速开发互联网技术,网站,APP,大型服务器架构,维护及企业工商财务等业务。" />
+
+    <meta name="keywords" content="@yield('keywords','海南企众实业(海南企众),建立网站,建站,PP开发,商城开发,小程序开发,微信开发,海南网站团队。')">
+    <meta name="description" content="@yield('description','海南企众帮助企业快速开发互联网技术,网站,APP,大型服务器架构,维护及企业工商财务等业务。')" />
 
     <meta name="baidu-site-verification" content="vd74ZfH6Me" />
-    <title>{{$web_title}}</title>
+    <title>{{$web_title}}---海南企众互联网科技开发网站等技术团队13337550507</title>
     <!-- Bootstrap -->
     <link href="{{url('css/bootstrap_index.css') }}" rel="stylesheet">
     <link href="{{url('css/style.css') }}" rel="stylesheet">
